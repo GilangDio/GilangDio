@@ -21,7 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,laravel)](https://skillicons.dev)
 
 **connect with me**
-![https://www.instagram.com/gilangdioal](https://img.shields.io/badge/Insatgram-E4405f?style=for-theccc-badges&logo=instagram&logocolor=white) ![https://www.linkedin.com/Gilang Dio Anggoro Indarsyahl](https://img.shields.io/badge/linkedin-007785?style=for-the-badges&logo=linkedin&logocolor=white)
+![https://www.instagram.com/gilangdioal?igsh=dnl0N3BiZXRzbG1i](https://img.shields.io/badge/Insatgram-E4405f?style=for-theccc-badges&logo=instagram&logocolor=white) ![https://www.linkedin.com/Gilang Dio Anggoro Indarsyahl](https://img.shields.io/badge/linkedin-007785?style=for-the-badges&logo=linkedin&logocolor=white)
 
 **📊My Github Stats**
 
